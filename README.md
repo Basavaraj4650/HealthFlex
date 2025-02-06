@@ -16,18 +16,18 @@ Install dependencies:
 npm install
 
 Start the app:
-npx react-native run-android  # For Android
-npx react-native run-ios      # For iOS (Mac required)
+1) npx react-native run-android  # For Android
+2) npx react-native run-ios      # For iOS (Mac required)
 
 Assumptions
-Timers are stored locally using AsyncStorage.
-Users can categorize timers into different groups.
-Bulk actions apply to selected timers simultaneously.
+1) Timers are stored locally using AsyncStorage.
+2) Users can categorize timers into different groups.
+3) Bulk actions apply to selected timers simultaneously.
 
 Tech Stack
-React Native – Cross-platform mobile framework.
-AsyncStorage – Persistent storage for timers.
-React Navigation – Handles app navigation.
+1) React Native – Cross-platform mobile framework.
+2) AsyncStorage – Persistent storage for timers.
+3) React Navigation – Handles app navigation.
 
 Usage
 Navigate to the "Timers" screen to create a new timer.
