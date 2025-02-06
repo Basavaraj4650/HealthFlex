@@ -45,6 +45,9 @@ const CategoryScreen = () => {
   return (
     <View style={{flex: 1, backgroundColor: '#121212', padding: 20}}>
       {/* Category Filter Dropdown */}
+      <Text style={{color: '#fff', fontSize: 16, marginBottom: 10}}>
+        Filter the timers based on category:
+      </Text>
       <View
         style={{
           backgroundColor: '#1e1e1e',
