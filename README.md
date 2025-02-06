@@ -30,8 +30,8 @@ Tech Stack
 3) React Navigation – Handles app navigation.
 
 Usage
-Navigate to the "Timers" screen to create a new timer.
-Group timers into categories.
-Use bulk actions to start, pause, or reset multiple timers at once.
-View progress visualization on the dashboard.
-Access the "History" tab to review completed or paused timers.
+1) Navigate to the "Timers" screen to create a new timer.
+2) Group timers into categories.
+3) Use bulk actions to start, pause, or reset multiple timers at once.
+4) View progress visualization on the dashboard.
+5) Access the "History" tab to review completed or paused timers.
